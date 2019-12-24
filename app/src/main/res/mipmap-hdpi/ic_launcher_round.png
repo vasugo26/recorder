@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="android.text.BidiFormatter java.lang.CharSequence unicodeWrap(java.lang.CharSequence, android.text.TextDirectionHeuristic, boolean)">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.text.BidiFormatter java.lang.CharSequence unicodeWrap(java.lang.CharSequence, android.text.TextDirectionHeuristic, boolean) 0">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.text.BidiFormatter java.lang.String unicodeWrap(java.lang.String, android.text.TextDirectionHeuristic, boolean)">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.text.BidiFormatter java.lang.String unicodeWrap(java.lang.String, android.text.TextDirectionHeuristic, boolean) 0">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 2">
+    <annotation name="android.support.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 3">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 4">
+    <annotation name="android.support.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 2">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 3">
+    <annotation name="android.support.annotation.IntRange">
+      <val name="from" val="0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 4">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean) 5">
+    <annotation name="android.support.annotation.FloatRange">
+      <val name="from" val="0.0" />
+    </annotation>
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, android.text.Layout.Alignment, float, float, boolean, android.text.TextUtils.TruncateAt, int) 2">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.text.DynamicLayout DynamicLayout(java.lang.CharSequence, java.lang.CharSequence, android.text.TextPaint, int, a

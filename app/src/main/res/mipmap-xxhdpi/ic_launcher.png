@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <item name="android.telephony.CarrierConfigManager">
+    <annotation name="android.support.annotation.SystemService">
+      <val name="value" val="android.content.Context.CARRIER_CONFIG_SERVICE" />
+    </annotation>
+  </item>
+  <item name="android.telephony.CarrierConfigManager android.os.PersistableBundle getConfig()">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.CarrierConfigManager android.os.PersistableBundle getConfigForSubId(int)">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.CellIdentity java.lang.CharSequence getOperatorAlphaLong()">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.CellIdentity java.lang.CharSequence getOperatorAlphaShort()">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.CellIdentity void writeToParcel(android.os.Parcel, int)">
+    <annotation name="android.support.annotation.CallSuper" />
+  </item>
+  <item name="android.telephony.CellInfo int getCellConnectionStatus()">
+    <annotation name="android.support.annotation.IntDef">
+      <val name="value" val="{android.telephony.CellInfo.CONNECTION_NONE, android.telephony.CellInfo.CONNECTION_PRIMARY_SERVING, android.telephony.CellInfo.CONNECTION_SECONDARY_SERVING, android.telephony.CellInfo.CONNECTION_UNKNOWN}" />
+    </annotation>
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, android.telephony.mbms.MbmsDownloadSessionCallback) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, android.telephony.mbms.MbmsDownloadSessionCallback) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, android.telephony.mbms.MbmsDownloadSessionCallback) 2">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, int, android.telephony.mbms.MbmsDownloadSessionCallback)">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, int, android.telephony.mbms.MbmsDownloadSessionCallback) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, int, android.telephony.mbms.MbmsDownloadSessionCallback) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession android.telephony.MbmsDownloadSession create(android.content.Context, java.util.concurrent.Executor, int, android.telephony.mbms.MbmsDownloadSessionCallback) 3">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession java.io.File getTempFileRootDirectory()">
+    <annotation name="android.support.annotation.Nullable" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession java.util.List&lt;android.telephony.mbms.DownloadRequest&gt; listPendingDownloads()">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addProgressListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadProgressListener) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addProgressListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadProgressListener) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addProgressListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadProgressListener) 2">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addStatusListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadStatusListener) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addStatusListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadStatusListener) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void addStatusListener(android.telephony.mbms.DownloadRequest, java.util.concurrent.Executor, android.telephony.mbms.DownloadStatusListener) 2">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void cancelDownload(android.telephony.mbms.DownloadRequest) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void download(android.telephony.mbms.DownloadRequest) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void removeProgressListener(android.telephony.mbms.DownloadRequest, android.telephony.mbms.DownloadProgressListener) 0">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSession void removeProgressListener(android.telephony.mbms.DownloadRequest, android.telephony.mbms.DownloadProgressListener) 1">
+    <annotation name="android.support.annotation.NonNull" />
+  </item>
+  <item name="android.telephony.MbmsDownloadSe
